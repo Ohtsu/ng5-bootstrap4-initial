@@ -6,7 +6,9 @@
 _ng5-bootstrap4-initial_ is an Angular5 initial project for programmers who want to start up Bootstrap4 easily.
 
 _Video Explanation_
+
 (English)   <https://youtu.be/MGEoxxalZEs>
+
 (Japanese)  <https://youtu.be/N-7doBn7J4w>
 
 _Full Source Code_
@@ -90,6 +92,7 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 ## Reference
 
 - "ng-bootstrap Getting started",
+
 <https://ng-bootstrap.github.io/#/getting-started>
 
 
