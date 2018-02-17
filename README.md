@@ -85,7 +85,7 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
    - ng5-bootstrap4-initial : 0.0.1
    - @angular/cli : 1.5.0
    - Angular      : 5.0.0
-   - @ng-bootstrap : 1.0.0-beta.9
+   - @ng-bootstrap : 1.0.0
 
 
 
